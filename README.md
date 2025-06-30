@@ -321,10 +321,6 @@ black backend/
 - **Gaming**: Understand gameplay mechanics and strategies
 - **Music**: Learn about songs, artists, and music theory
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Google AI** for providing the Gemini AI API
@@ -335,10 +331,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/youtube-chatbot-assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/youtube-chatbot-assistant/discussions)
-- **Email**: support@yourdomain.com
-- **Documentation**: [Wiki](https://github.com/yourusername/youtube-chatbot-assistant/wiki)
+- **Issues**: [GitHub Issues](https://github.com/mysteriouscoder610/youtube-chatbot-assistant/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/mysteriouscoder610/youtube-chatbot-assistant/discussions)
+- **Email**: jha2004ayush@gmail.com
+- **Documentation**: [Wiki](https://github.com/mysteriouscoder610/youtube-chatbot-assistant/wiki)
 
 ## 🌟 Show Your Support
 
