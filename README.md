@@ -302,7 +302,6 @@ black backend/
 - [ ] **Voice input** - Ask questions using voice commands
 - [ ] **Advanced search** - Search within video transcripts
 - [ ] **Playlist support** - Ask questions across multiple videos
-- [ ] **Mobile app** - Native mobile application
 
 ## 🎯 Use Cases
 
@@ -331,10 +330,7 @@ black backend/
 
 ## 📞 Support & Contact
 
-- **Issues**: [GitHub Issues](https://github.com/mysteriouscoder610/youtube-chatbot-assistant/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/mysteriouscoder610/youtube-chatbot-assistant/discussions)
 - **Email**: jha2004ayush@gmail.com
-- **Documentation**: [Wiki](https://github.com/mysteriouscoder610/youtube-chatbot-assistant/wiki)
 
 ## 🌟 Show Your Support
 
